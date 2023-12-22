@@ -1,0 +1,13 @@
+name = "Void Fog"
+filename = "VoidFog-1.19.2-2.0.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f89e06682d95d4935a1289bbb1955dcdff2e83f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3924887
+project-id = 267244

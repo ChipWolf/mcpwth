@@ -1,0 +1,13 @@
+name = "BN Blood Particles "
+filename = "BNBloodParticlesMod 1.19.2 v0.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c82107e1393fb1190b3f433bb85fabcd92be57f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4859970
+project-id = 897335

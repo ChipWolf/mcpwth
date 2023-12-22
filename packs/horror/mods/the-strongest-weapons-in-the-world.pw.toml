@@ -1,0 +1,13 @@
+name = "Overpowered Legendary Weapons"
+filename = "legendweapons 5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddc003d0525b9429c0b92bf250650c27326743f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4557474
+project-id = 859610

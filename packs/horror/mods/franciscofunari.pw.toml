@@ -1,0 +1,13 @@
+name = "Medieval Craft"
+filename = "Medieval_Craft_(structures)-2.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf4b18ed0ef49bf72e0f7ad2f6cb7aa1a8487401"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4498329
+project-id = 416811

@@ -1,0 +1,13 @@
+name = "Medieval craft (Weapons)"
+filename = "Medieval_Craft_(Weapons)-1.1.1_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60295b32eb07065a7ff6252dd91f2bd5055472fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4508459
+project-id = 669753

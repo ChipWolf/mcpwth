@@ -1,0 +1,13 @@
+name = "Ores Drop Mores 3"
+filename = "[FORGE]oresdropmores-1.3.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "565a6d8f135225df3609edb4ea26ca76567795b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4417431
+project-id = 577159

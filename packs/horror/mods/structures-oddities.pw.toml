@@ -1,0 +1,13 @@
+name = "Structures & Oddities"
+filename = "StructuralOddities1.19.2v0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "873a382852c682b35a409ec9c7db7bd74646c57a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4552928
+project-id = 849797

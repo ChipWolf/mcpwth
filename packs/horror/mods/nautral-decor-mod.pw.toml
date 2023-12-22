@@ -1,0 +1,13 @@
+name = "Natural Decor Mod"
+filename = "NaturalDecorMod_1.19.2_V1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61aa859018a0268ed5e9252443e4169fe5e2682d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4618320
+project-id = 375573

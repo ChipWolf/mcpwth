@@ -1,0 +1,13 @@
+name = "Belgie's Mo' Villagers FORGE"
+filename = "Mo-Villagers-1.19.2-FORGE-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c25618f92dee3a059d997514be99d1d4908af3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4543422
+project-id = 566381

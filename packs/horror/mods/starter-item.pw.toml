@@ -1,0 +1,13 @@
+name = "Starter Items"
+filename = "StarterItems-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "744d9684fbdba54a240c2c5bef807009120de44e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4623404
+project-id = 883762
