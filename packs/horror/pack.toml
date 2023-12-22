@@ -1,0 +1,13 @@
+name = "Horror"
+author = "ChipWolf"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "98356fb2107098d00d5e5afbabbaeaf150c83b34e2d7e2903c99a30cca93445b"
+
+[versions]
+forge = "47.2.5"
+minecraft = "1.20.1"
