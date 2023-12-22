@@ -1,0 +1,5 @@
+{
+	"name": "Packwiz",
+	"image": "mcr.microsoft.com/devcontainers/go:1-1.21-bullseye",
+	"onCreateCommand": "go install github.com/packwiz/packwiz@latest"
+}
