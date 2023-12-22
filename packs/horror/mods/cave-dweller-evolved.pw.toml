@@ -1,13 +1,13 @@
 name = "Cave Dweller Evolved"
-filename = "cave_dweller-1.20.1-1.6.5.jar"
+filename = "cave_dweller-1.20.1-1.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c5d13e37ff7e10b8a52e465caa41ddabff629c87"
+hash = "36ed8ff10064938323d0707e2689b30a247573cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4797983
+file-id = 4971140
 project-id = 891647

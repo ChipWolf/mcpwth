@@ -1,13 +1,13 @@
 name = "Majrusz's Progressive Difficulty"
-filename = "majruszs-difficulty-1.20.1-1.8.1.jar"
+filename = "majruszs-difficulty-forge-1.20.1-1.9.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d71216f609a7232a27e5893aa5dea34bf456cadc"
+hash = "3bca515228995e28c0e77e49ec8ee0041666c066"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4753802
+file-id = 4971517
 project-id = 430642
